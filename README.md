@@ -6,7 +6,7 @@ A production-grade, asynchronous Full-System project demonstrating low-latency c
 
 
 
-!\[Project Architecture Banner](Photo.png)
+![Project Architecture Banner](Photo.png)
 
 
 
